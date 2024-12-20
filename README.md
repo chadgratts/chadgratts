@@ -1,4 +1,4 @@
-## Hello 👋 I'm Chad :)
+## Hello 👋 I'm Chad Gratts :)
 <!--
 **chadgratts/chadgratts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-is this text smaller? Is that a header?
+I'm a software engineer passionate about solving complex problems, and collaborating with others to turn ideas into reality. Having come from a career as a musician, I bring a unique mix of creativity, discipline, and collaboration to every team I join, paired with the technical expertise of a software engineer. 💻✨
+
+<br>
+
+## Providence
+Most recently, I developed [Providence](https://providence-replay.github.io/), an open-source session replay tool that helps teams understand and improve their UI/UX through AI analysis.
+
+<br>
+
+📖 [Read the Providence Case Study](https://providence-replay.github.io/)
