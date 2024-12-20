@@ -18,7 +18,7 @@ I'm a software engineer passionate about solving complex problems, and collabora
 
 <br>
 
-## <img width="40" alt="Screenshot 2024-12-19 at 11 27 22 PM" src="https://github.com/user-attachments/assets/966d974a-9dcd-43b4-a173-84b8e6936b7a" /> Providence
+## <img width="40" alt="logo" src="https://github.com/user-attachments/assets/d7897afa-4e50-418f-a7eb-ef7f064c626b" /> Providence
 Most recently, I developed [Providence](https://providence-replay.github.io/), an open-source session replay tool that helps teams understand and improve their UI/UX through AI analysis.
 
 <br>
