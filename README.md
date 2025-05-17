@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a backend-focused software engineer who loves turning complex ideas into clean, scalable systems. Before tech, I was a professional musician, so I bring creativity, discipline, and strong collaboration to every team I join. 💻✨
+I'm a fullstack software engineer who loves turning complex ideas into clean, scalable systems. Before tech, I was a professional musician, so I bring creativity, discipline, and strong collaboration to every team I join. 💻✨
 
 <br>
 
